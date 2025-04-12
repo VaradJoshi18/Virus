@@ -6,12 +6,12 @@
 
 ## Table of Contents
 
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Disclaimer & Legal Notice](#disclaimer)
+- [Features](#features-)
+- [Requirements](#requirements-)
+- [Installation](#installation-)
+- [Usage](#usage-)
+- [How It Works](#how-it-works-)
+- [Disclaimer & Legal Notice](#disclaimer-%EF%B8%8F)
 
 
 ---
